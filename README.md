@@ -50,7 +50,7 @@ Handling imbalanced data in classification tasks is a challenge that requires ca
 * **classification_report**
 * **accuracy_score**
 
-* **Key Insights**
+**Key Insights**
 
 The dataset contains 58,592 entries and 41 columns, including the target variable claim_status. It is based on the problem of insurance claim frequency prediction. Here’s a brief overview of some of the features:
 * policy_id: Unique identifier for the insurance policy
